@@ -1,0 +1,27 @@
+{
+    "name": "developeruz/easyii-user-module",
+    "description": "User module for EasyiiCMS",
+    "keywords": ["yii", "easyiiCMS", "CMS", "module"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Elvira Sheina",
+            "email": "elleuz@gmail.com",
+            "homepage": "http://developer.uz"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "noumo/easyii": "dev-master",
+        "dektrium/yii2-user": "^0.9.12"
+    },
+    "support": {
+        "issues": "https://github.com/developeruz/easyii-user-module/issues"
+    },
+    "autoload": {
+        "psr-4": {
+            "developeruz\\easyii_user\\": ""
+        }
+    }
+}
