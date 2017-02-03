@@ -5,7 +5,7 @@ This module allows add [User module](http://github.com/dektrium/yii2-user) to [E
 
 ## Installation guide
 ```bash
-$ php composer.phar require developeruz/easyii-user-module "*"
+$ php composer.phar require developeruz/easyii-user-module "dev-master"
 ```
 
 Replace last line in `app/config/web.php`
